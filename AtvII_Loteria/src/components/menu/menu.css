@@ -1,0 +1,36 @@
+.menu{
+    margin-top: 1%;
+    margin-left: 5.5%;
+    padding: 12px;
+}
+
+.linklotofacil{
+    text-decoration: none;
+	color: #930089;
+	padding: 12px;
+}
+
+.linkmegasena{
+    text-decoration: none;
+	color: #209869;
+	padding: 12px;
+}
+
+.linkquina{
+    text-decoration: none;
+	color: #260085;
+	padding: 12px;
+}
+
+.link{
+    font-size: 25px;
+    font-weight: bold; 
+    text-align: center;  
+}
+.link:hover{
+    color: grey;
+} 
+
+.link:focus-within{
+    color: #aaa;
+}

@@ -1,0 +1,25 @@
+.titulo {
+    display: inline-block;
+    color: #209869;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-left: 10px;
+    max-width: 300px;
+  }
+  .tituloLoto {
+    display: inline-block;
+    color: #930089;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  .tituloQuina {
+    display: inline-block;
+    color: #260085;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-left: 10px;
+  }

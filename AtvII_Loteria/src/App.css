@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-link {
+  color: #61dafb;
+}
+.cont {
+  
+  border-color: #ddd;
+  display: flex;
+}
+.trevo {  
+  margin-top: 20px;
+  margin-left: 10vh;
+  max-width: 300px;
+}
+.direito {
+  display: inline-block;
+}
+.esquerdo {
+  display: inline-block;
+}
+.carregando {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 50px;
+  line-height: 50px;
+  text-align:center;
+  position: absolute;
+  top: 50%; 
+  margin-top: -25px; 
+  left: 50%;
+  margin-left: -100px;
+}

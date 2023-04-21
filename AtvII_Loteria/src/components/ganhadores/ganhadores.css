@@ -1,0 +1,12 @@
+.ganhadores {
+    color: #0066b3;
+    text-align: center;
+    text-transform: uppercase;
+    display: inline-block;
+    max-width: 300px;
+    margin-left: 200px;
+}
+
+.ganhadores h1 {
+    display: inline-block;
+}
